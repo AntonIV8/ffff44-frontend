@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ffff44-cat-e",
+  "editForm": "i-i-s-ffff44-cat-e",
+  "external": false,
+  "caption": "Cat",
+  "name": "IISffff44CatL",
+  "className": "CatL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ffff44-cat",
+      "modelProjection": "CatL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Cat",
+  "name": "IISffff44CatE",
+  "className": "CatE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ffff44-cat",
+      "modelProjection": "CatE"
+    }
+  ]
+}

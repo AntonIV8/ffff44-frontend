@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Dog",
+  "name": "IISffff44DogE",
+  "className": "DogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ffff44-dog",
+      "modelProjection": "DogE"
+    }
+  ]
+}
